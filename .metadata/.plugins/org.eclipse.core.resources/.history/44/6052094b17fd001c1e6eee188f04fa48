@@ -1,0 +1,11 @@
+package br.com.fiap.tdss01;
+
+public class Operadores {
+	public static void main(String[] args) {
+		int m = 4 *10;
+		System.out.println("Multiplicando 4 vezes 10 = " + m);
+		
+	}
+	
+
+}

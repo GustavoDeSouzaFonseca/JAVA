@@ -1,0 +1,8 @@
+package br.com.estante.model;
+
+public class Estante {
+	 //Atributos
+	public String modelo;
+	public 
+
+}

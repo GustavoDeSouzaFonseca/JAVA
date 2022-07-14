@@ -1,0 +1,11 @@
+package br.com.fiap.tdss01;
+
+public class Operadores {
+	public static void main(String[] args) {
+		int m = 2 *10;
+		System.out.println("Multiplicando 2 vezes 10 = " + m);
+		
+	}
+	
+
+}
